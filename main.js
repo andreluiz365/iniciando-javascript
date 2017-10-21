@@ -59,7 +59,7 @@ function over(obj) {
 function out(obj) {
     obj.style.background = '#fff000';
     obj.color = '#ccc';
-}
+}//end
 
 
 
